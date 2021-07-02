@@ -245,3 +245,4 @@ You can access the NativeModule directly on iOS using the following instructions
 ## Thanks
 
 The Android portion of this library was originally built by https://github.com/Vizir for https://github.com/Vizir/react-native-paypal. The merging of the API in order to provide cross platform support was done almost entirely by https://github.com/amiuhle.
+# XYZ-TechnicalTest
