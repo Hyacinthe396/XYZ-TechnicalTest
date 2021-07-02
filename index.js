@@ -13,7 +13,6 @@ if (Platform.OS === 'android') {
     SANDBOX: 0,
     PRODUCTION: 1,
     NO_NETWORK: 2,
-
     USER_CANCELLED: 'USER_CANCELLED',
     INVALID_CONFIG: 'INVALID_CONFIG'
   }
